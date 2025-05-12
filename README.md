@@ -32,17 +32,17 @@ Alexander WH
 > uname -a
 Arch Linux | Kali Linux
 Languages & Platforms (still learning):
-Python
-Javascript
-HTML
+Python,
+Javascript,
+HTML,
 
 
 Other tools I use:
-Ghidra
-Wireshark
-Burp suite
-Visual studio code
-Vim
+Ghidra,
+Wireshark,
+Burp suite,
+Visual studio code,
+Vim.
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alex1337&show_icons=true&theme=github_dark&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=alex1337&theme=github-dark&hide_border=true" height="170" /> </p>
