@@ -52,11 +52,27 @@ Vim.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1xdy&layout=compact&theme=github_dark&hide_border=true" />
 
-![](https://komarev.com/ghpvc/?username=wh1xdy&label=Profile+views&color=00f7ff&style=flat)
 
-<img src="https://img.shields.io/badge/Linux-Arch-blue?logo=arch-linux&style=flat&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Vim-019733?style=flat&logo" />
+  <img src="https://img.shields.io/badge/Terminal-Bash-121011?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Ghidra-black?style=flat&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Metasploit-004D9D?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hobby-Ethical%20Hacking-00A86B?style=flat&logo=protonvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electrical-Engineering-FCC624?style=flat&logo=raspberrypi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-Researcher-00CED1?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Reverse-Engineering-9C27B0?style=flat&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Radio-SDR-1976D2?style=flat&logo=thealgorithms&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Hacker-Ethical-green?style=flat&logo=kalilinux" />
+</p>
 
 🔍 Interests
 Reverse engineering & radio signals (HackRF + SDR)
