@@ -46,6 +46,17 @@ Vim.
 
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alex1337&show_icons=true&theme=github_dark&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=alex1337&theme=github-dark&hide_border=true" height="170" /> </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex1337&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=alex1337&theme=onedark&no-frame=true&margin-w=15" />
+
+![](https://komarev.com/ghpvc/?username=alex1337&label=Profile+views&color=00f7ff&style=flat)
+
+<img src="https://img.shields.io/badge/Linux-Arch-blue?logo=arch-linux&style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Hacker-Ethical-green?style=flat&logo=kalilinux" />
+<img src="https://img.shields.io/badge/Coding%20Since-2018-informational?style=flat&color=blue" />
+
 🔍 Interests
 Reverse engineering & radio signals (HackRF + SDR)
 
