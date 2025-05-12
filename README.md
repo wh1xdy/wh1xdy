@@ -1,56 +1,61 @@
-<!-- Alex1337's GitHub Profile README -->
+<!-- Profile README for alex1337 (or replace with your username) -->
 
-<h1 align="center">👋 Hej, jag är Alex!</h1>
+<h1 align="center">Hey, I'm Alex</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0FF7F7&lines=Tech+nörd.;Etisk+hacker+under+utbildning.;Drönarbyggare.;AI-fantast.;Rymden+är+mitt+element.;Jag+skrattar+åt+bash-skript." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Tech+nerd+from+Sweden;Passionate+about+ethical+hacking;Building+drones+and+AI;Loves+space%2C+code%2C+chemistry;Exploring+everything+digital" />
 </p>
 
 ---
 
-## 🧠 Om mig
+## 🧠 About Me
 
-> Jag är en 14-årig teknikentusiast från Sverige som älskar allt som har med **kod, datorer, kemi, AI, drönare, och rymden** att göra.  
-> Jag är som Neo, fast med mer koffein och mindre Matrix.
+I'm a 14-year-old developer-in-progress who enjoys pushing hardware and software to their limits.  
+Currently learning everything I can about:
+- Ethical hacking
+- Drone engineering
+- Server infrastructure
+- Home automation
+- AI and signal analysis
+- Chemistry
+
+I run Linux, write code for fun, and dream of being a sysadmin.
 
 ---
 
-### ⚙️ Mina superkrafter
-```bash
-> nmap -sV --reason alex1337.local
-PORT     STATE SERVICE    VERSION
-80/tcp   open  creativity Markdown Engine
-1337/tcp open  hacking    Ethical Hacker Mode
-5000/tcp open  python     v3.11 - AI integration enabled
-🔧 Bygger FPV-drönare som kan flyga från noll till hyperspace
-
-🧪 Experimenterar med kemi och fuskfri AI
-
-🛠 HomeLab-arkitekt – med servrar som glöder
-
-📡 HackRF-entusiast och radiospektrum-upptäckare
-
-🤖 Skapar sci-fi-UI till hemautomation med röststyrning och prank mode
-
-🛠 Verktyg jag gillar
+## ⚙️ Skills & Tools
 
 
+> whoami
+Alexander WH
+> uptime
+14 years alive, 6 years tech experience
+> uname -a
+Arch Linux | Kali Linux
+Languages & Platforms (still learning):
+Python
+Javascript
+HTML
 
 
+Other tools I use:
+Ghidra
+Wireshark
+Burp suite
+Visual studio code
+Vim
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alex1337&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=alex1337&theme=tokyonight&hide_border=true" /> </p>
-⚡ Roliga fakta
-Jag har testat att köra AI på en gammal Dell från stenåldern – den överlevde, knappt.
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alex1337&show_icons=true&theme=github_dark&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=alex1337&theme=github-dark&hide_border=true" height="170" /> </p>
+🔍 Interests
+Reverse engineering & radio signals (HackRF + SDR)
 
-Jag har funderat på att bygga en HUD inuti skidglasögon. Ja, med notiser, karta och kompisar i realtid.
+Autonomous systems, sensors and control loops
 
-Jag använder ibland ChatGPT som min digitala labbpartner (👀).
+AI-powered tools (chatbots, object detection, anomaly detection)
 
-📫 Kontakt
-Vill du samarbeta, snacka teknik, eller bara skicka mig ASCII-konst?
 
-bash
-Kopiera
-Redigera
-echo "alex@hacktheuniverse.net" | base64
-<p align="center"> <img src="https://github.com/alex1337.png" width="100" style="border-radius: 50%;" /> </p> <h4 align="center">“Tryckt på F12 innan jag kunde cykla.”</h4>
+📡 Contact
+
+
+echo "Contact me via GitHub or use encrypted pigeon post."
+<p align="center"> <img src="https://github.com/alex1337.png" width="100" style="border-radius: 50%;" /> </p> <p align="center"><i>“I debug for sport.”</i></p> ```
