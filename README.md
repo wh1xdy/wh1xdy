@@ -57,5 +57,4 @@ AI-powered tools (chatbots, object detection, anomaly detection)
 📡 Contact
 
 
-echo "Contact me via GitHub or use encrypted pigeon post."
-<p align="center"> <img src="https://github.com/alex1337.png" width="100" style="border-radius: 50%;" /> </p> <p align="center"><i>“I debug for sport.”</i></p> ```
+Contact me via GitHub or use encrypted pigeon post.
