@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey, I'm Alex</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Tech+nerd+from+Sweden;Passionate+about+ethical+hacking;Building+drones+and+AI;Loves+space%2C+code%2C+chemistry;Exploring+everything+digital; Exploring electrical engineering " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Tech+nerd+from+Sweden;Passionate+about+ethical+hacking;Building+drones+and+AI;Loves+space%2C+code%2C+chemistry;Exploring+everything+digital; Exploring electrical engineering; " />
 </p>
 
 ---
