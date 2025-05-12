@@ -86,5 +86,3 @@ AI-powered tools (chatbots, object detection, anomaly detection)
 
 
 Contact me via GitHub or use encrypted pigeon post.
-
-https://wh1xdy.github.io/snk/github-snake.svg
