@@ -76,10 +76,6 @@ Vim.
 </p>
 
 
-<br><br><center><a href="http://www.thegamehomepage.com/play/the-stupidity-test/" target="_blank" title="The 
-Stupidity Test"><img src="http://www.thegamehomepage.com/stupidity/0.gif"></a><br><br></center>
-
-
 🔍 Interests
 Reverse engineering & radio signals (HackRF + SDR)
 
