@@ -72,7 +72,13 @@ Vim.
 <img src="https://img.shields.io/badge/Reverse-Engineering-9C27B0?style=flat&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/Radio-SDR-1976D2?style=flat&logo=thealgorithms&logoColor=white" />
 
+
 </p>
+
+
+<br><br><center><a href="http://www.thegamehomepage.com/play/the-stupidity-test/" target="_blank" title="The 
+Stupidity Test"><img src="http://www.thegamehomepage.com/stupidity/0.gif"></a><br><br></center>
+
 
 🔍 Interests
 Reverse engineering & radio signals (HackRF + SDR)
