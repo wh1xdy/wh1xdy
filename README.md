@@ -27,6 +27,7 @@ I run Linux, write code for fun, and dream of being a sysadmin.
 
 > whoami
 Alexander WH
+
 > uptime
 14 years alive, 6 years tech experience
 
