@@ -26,7 +26,7 @@ I run Linux and write code for fun.
 
 
 > whoami
-Alexander WH
+Alexander Wessblad Hårdh
 
 > uptime
 14 years alive, 6 years tech experience
