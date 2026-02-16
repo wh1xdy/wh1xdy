@@ -18,7 +18,7 @@ Currently learning everything I can about:
 - AI and signal analysis
 - Chemistry
 
-I run Linux, write code for fun, and dream of being a sysadmin.
+I run Linux and write code for fun.
 
 ---
 
