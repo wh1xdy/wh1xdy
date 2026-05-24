@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm a 14-year-old developer-in-progress who enjoys pushing hardware and software to their limits.  
+I'm a 15-year-old developer-in-progress who enjoys pushing hardware and software to their limits.  
 Currently learning everything I can about:
 - Ethical hacking
 - Drone engineering
