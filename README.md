@@ -29,7 +29,7 @@ I run Linux and write code for fun.
 Alexander Wessblad Hårdh
 
 > uptime
-14 years alive, 6 years tech experience
+15 years alive, 7 years tech experience
 
 
 Languages & Platforms (still learning):
