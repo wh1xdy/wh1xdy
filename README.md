@@ -1,4 +1,4 @@
-<!-- Profile README for wh1xdy (or replace with your username) -->
+<!-- Profile README for wh1xdy -->
 
 <h1 align="center">Hey, I'm Alex</h1>
 <p align="center">
