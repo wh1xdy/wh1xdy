@@ -45,8 +45,8 @@ $ uptime
 15 years alive, 7 years deep in tech
 ```
 
-**Platforms:** Arch Linux · Kali Linux
-**Languages:** Python · Bash · JavaScript
+**Platforms:** Arch Linux · Kali Linux · Windows XP-11 · MacOS · Proxmox · Ubuntu
+**Languages:** Python · Bash · JavaScript · Swift
 **Tools:** Ghidra · Wireshark · Burp Suite · Metasploit · Vim · VS Code
 
 <p align="center">
