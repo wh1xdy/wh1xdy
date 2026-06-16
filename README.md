@@ -30,7 +30,7 @@ I run Linux and build things for real.
 - **[nuclear_reactor_control_room](https://github.com/wh1xdy/nuclear_reactor_control_room)**
   — a real-time PWR/BWR/RBMK control-room simulator: point-kinetics, thermal
   modelling, xenon poisoning, IAPWS-IF97 steam properties.
-- **AetherCore** — a 42U homelab: 11 servers, a Proxmox cluster and enterprise
+- **Lab** — a 42U homelab: 18 servers, a Proxmox cluster and enterprise
   switching, most of it sourced through cold outreach to companies that donated
   the hardware.
 
